@@ -2,27 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>%d items</key>
+	<key>num_items</key>
 	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@num_items@</string>
-		<key>num_items</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>d</string>
-			<key>zero</key>
-			<string>No items</string>
-			<key>one</key>
-			<string>One item</string>
-			<key>few</key>
-			<string>A few (aka %d) items</string>
-			<key>many</key>
-			<string>Many (aka %d) items</string>
-			<key>other</key>
-			<string>Multiple (aka %d) items</string>
-		</dict>
+		<key>NSStringFormatSpecTypeKey</key>
+		<string>NSStringPluralRuleType</string>
+		<key>NSStringFormatValueTypeKey</key>
+		<string>d</string>
+		<key>zero</key>
+		<string>No items</string>
+		<key>one</key>
+		<string>One item</string>
+		<key>few</key>
+		<string>A few (aka %d) items</string>
+		<key>many</key>
+		<string>Many (aka %d) items</string>
+		<key>other</key>
+		<string>Multiple (aka %d) items</string>
 	</dict>
 </dict>
 </plist>

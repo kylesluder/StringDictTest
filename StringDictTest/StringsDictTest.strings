@@ -6,4 +6,4 @@
   Copyright (c) 2013 Kyle Sluder. All rights reserved.
 */
 
-"%d items" = "Unlocalized: %d items";
+"%d items" = "%#@num_items@";
