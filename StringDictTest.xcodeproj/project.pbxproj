@@ -20,8 +20,6 @@
 		2780BAB11820752D008B2221 /* StringDictTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2780BAB01820752D008B2221 /* StringDictTestTests.m */; };
 		2780BABD182078CE008B2221 /* StringsDictTest.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 2780BABC182078CE008B2221 /* StringsDictTest.stringsdict */; };
 		2780BABE182078CE008B2221 /* StringsDictTest.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = 2780BABC182078CE008B2221 /* StringsDictTest.stringsdict */; };
-		2780BAC018207B1E008B2221 /* StringsDictTest.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2780BABF18207B1E008B2221 /* StringsDictTest.strings */; };
-		2780BAC118207B1E008B2221 /* StringsDictTest.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2780BABF18207B1E008B2221 /* StringsDictTest.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +53,6 @@
 		2780BAAE1820752D008B2221 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2780BAB01820752D008B2221 /* StringDictTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StringDictTestTests.m; sourceTree = "<group>"; };
 		2780BABC182078CE008B2221 /* StringsDictTest.stringsdict */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = StringsDictTest.stringsdict; sourceTree = "<group>"; };
-		2780BABF18207B1E008B2221 /* StringsDictTest.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = StringsDictTest.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,7 +122,6 @@
 				2780BA991820752D008B2221 /* AppDelegate.m */,
 				2780BA9B1820752D008B2221 /* MainMenu.xib */,
 				2780BABC182078CE008B2221 /* StringsDictTest.stringsdict */,
-				2780BABF18207B1E008B2221 /* StringsDictTest.strings */,
 				2780BA9E1820752D008B2221 /* Images.xcassets */,
 				2780BA8D1820752D008B2221 /* Supporting Files */,
 			);
@@ -243,7 +239,6 @@
 				2780BA971820752D008B2221 /* Credits.rtf in Resources */,
 				2780BA9D1820752D008B2221 /* MainMenu.xib in Resources */,
 				2780BABD182078CE008B2221 /* StringsDictTest.stringsdict in Resources */,
-				2780BAC018207B1E008B2221 /* StringsDictTest.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,7 +248,6 @@
 			files = (
 				2780BAAF1820752D008B2221 /* InfoPlist.strings in Resources */,
 				2780BABE182078CE008B2221 /* StringsDictTest.stringsdict in Resources */,
-				2780BAC118207B1E008B2221 /* StringsDictTest.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
